@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect fill="#f2d7b4" width="800" height="500"/>
+  <!-- Sky -->
+  <rect fill="#e9bb84" width="800" height="320"/>
+  <!-- Ground / river -->
+  <rect fill="#d78033" y="400" width="800" height="100"/>
+  <rect fill="#a74f23" y="380" width="800" height="30" opacity="0.5"/>
+  <!-- Main baroque building body -->
+  <rect fill="#df9952" x="80" y="180" width="640" height="220" rx="3"/>
+  <!-- Central tower / clock tower -->
+  <rect fill="#c96828" x="340" y="100" width="120" height="260" rx="3"/>
+  <rect fill="#a74f23" x="360" y="80" width="80" height="40" rx="2"/>
+  <!-- Tower spire -->
+  <polygon fill="#864023" points="340,100 400,40 460,100"/>
+  <!-- Clock face -->
+  <circle fill="#f9edda" cx="400" cy="155" r="22"/>
+  <circle fill="#c96828" cx="400" cy="155" r="3"/>
+  <line x1="400" y1="155" x2="400" y2="137" stroke="#864023" stroke-width="2"/>
+  <line x1="400" y1="155" x2="414" y2="155" stroke="#864023" stroke-width="2"/>
+  <!-- Windows on main building -->
+  <rect fill="#a74f23" x="110" y="210" width="35" height="55" rx="3"/>
+  <rect fill="#a74f23" x="165" y="210" width="35" height="55" rx="3"/>
+  <rect fill="#a74f23" x="220" y="210" width="35" height="55" rx="3"/>
+  <rect fill="#a74f23" x="275" y="210" width="35" height="55" rx="3"/>
+  <rect fill="#a74f23" x="490" y="210" width="35" height="55" rx="3"/>
+  <rect fill="#a74f23" x="545" y="210" width="35" height="55" rx="3"/>
+  <rect fill="#a74f23" x="600" y="210" width="35" height="55" rx="3"/>
+  <rect fill="#a74f23" x="655" y="210" width="35" height="55" rx="3"/>
+  <!-- Tower windows -->
+  <rect fill="#f9edda" x="367" y="200" width="20" height="35" rx="2"/>
+  <rect fill="#f9edda" x="413" y="200" width="20" height="235" rx="2"/>
+  <!-- Columns / pilasters -->
+  <rect fill="#c96828" x="100" y="180" width="8" height="220"/>
+  <rect fill="#c96828" x="200" y="180" width="8" height="220"/>
+  <rect fill="#c96828" x="300" y="180" width="8" height="220"/>
+  <rect fill="#c96828" x="492" y="180" width="8" height="220"/>
+  <rect fill="#c96828" x="592" y="180" width="8" height="220"/>
+  <rect fill="#c96828" x="692" y="180" width="8" height="220"/>
+  <!-- Entrance stairs -->
+  <rect fill="#c96828" x="340" y="380" width="120" height="12" rx="1"/>
+  <rect fill="#d78033" x="350" y="368" width="100" height="12" rx="1"/>
+  <!-- Cornice -->
+  <rect fill="#a74f23" x="80" y="178" width="640" height="12" rx="2"/>
+  <text x="400" y="460" text-anchor="middle" fill="#f9edda" font-family="Inter,sans-serif" font-size="24" font-weight="600">Uniwersytet Wrocławski</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect fill="#e9bb84" width="800" height="500"/>
+  <rect fill="#d4a873" y="320" width="800" height="180"/>
+  <rect fill="#c96828" x="50" y="140" width="80" height="180" rx="3"/>
+  <rect fill="#df9952" x="60" y="160" width="25" height="35" rx="2"/>
+  <rect fill="#df9952" x="95" y="160" width="25" height="35" rx="2"/>
+  <rect fill="#df9952" x="60" y="210" width="25" height="35" rx="2"/>
+  <rect fill="#df9952" x="95" y="210" width="25" height="35" rx="2"/>
+  <polygon fill="#864023" points="45,140 90,90 135,140"/>
+  <rect fill="#d78033" x="160" y="120" width="100" height="200" rx="3"/>
+  <rect fill="#e9bb84" x="175" y="145" width="30" height="40" rx="2"/>
+  <rect fill="#e9bb84" x="215" y="145" width="30" height="40" rx="2"/>
+  <rect fill="#e9bb84" x="175" y="200" width="30" height="40" rx="2"/>
+  <rect fill="#e9bb84" x="215" y="200" width="30" height="40" rx="2"/>
+  <polygon fill="#a74f23" points="155,120 210,60 265,120"/>
+  <rect fill="#a74f23" x="300" y="80" width="200" height="240" rx="3"/>
+  <rect fill="#c96828" x="325" y="110" width="40" height="55" rx="2"/>
+  <rect fill="#c96828" x="380" y="110" width="40" height="55" rx="2"/>
+  <rect fill="#c96828" x="435" y="110" width="40" height="55" rx="2"/>
+  <rect fill="#c96828" x="325" y="185" width="40" height="55" rx="2"/>
+  <rect fill="#c96828" x="380" y="185" width="40" height="55" rx="2"/>
+  <rect fill="#c96828" x="435" y="185" width="40" height="55" rx="2"/>
+  <rect fill="#6d361f" x="370" y="260" width="60" height="60" rx="2"/>
+  <polygon fill="#864023" points="290,80 400,10 510,80"/>
+  <rect fill="#3b1a0e" x="395" y="20" width="10" height="60"/>
+  <rect fill="#df9952" x="540" y="150" width="90" height="170" rx="3"/>
+  <rect fill="#f2d7b4" x="555" y="175" width="25" height="35" rx="2"/>
+  <rect fill="#f2d7b4" x="590" y="175" width="25" height="35" rx="2"/>
+  <polygon fill="#c96828" points="535,150 585,100 635,150"/>
+  <rect fill="#c96828" x="670" y="130" width="80" height="190" rx="3"/>
+  <rect fill="#e9bb84" x="685" y="155" width="25" height="35" rx="2"/>
+  <rect fill="#e9bb84" x="720" y="155" width="25" height="35" rx="2"/>
+  <rect fill="#e9bb84" x="685" y="210" width="25" height="35" rx="2"/>
+  <rect fill="#e9bb84" x="720" y="210" width="25" height="35" rx="2"/>
+  <polygon fill="#a74f23" points="665,130 710,75 755,130"/>
+  <text x="400" y="440" text-anchor="middle" fill="#3b1a0e" font-family="Inter,sans-serif" font-size="24" font-weight="600">Rynek Wrocławski</text>
+</svg>

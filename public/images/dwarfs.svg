@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect fill="#f2d7b4" width="800" height="500"/>
+  <rect fill="#d4c4a8" y="350" width="800" height="150"/>
+  <g transform="translate(400,280)">
+    <circle fill="#a74f23" cx="0" cy="-30" r="35"/>
+    <polygon fill="#864023" points="-35,-30 0,-90 35,-30"/>
+    <circle fill="#f9edda" cx="0" cy="-20" r="20"/>
+    <circle fill="#3b1a0e" cx="-7" cy="-22" r="3"/>
+    <circle fill="#3b1a0e" cx="7" cy="-22" r="3"/>
+    <ellipse fill="#c96828" cx="0" cy="-10" rx="8" ry="4"/>
+    <rect fill="#d78033" x="-20" y="5" width="40" height="50" rx="6"/>
+    <rect fill="#a74f23" x="-15" y="55" width="12" height="25" rx="4"/>
+    <rect fill="#a74f23" x="3" y="55" width="12" height="25" rx="4"/>
+  </g>
+  <g transform="translate(200,300) scale(0.7)">
+    <circle fill="#6d361f" cx="0" cy="-30" r="35"/>
+    <polygon fill="#3b1a0e" points="-35,-30 0,-90 35,-30"/>
+    <circle fill="#f9edda" cx="0" cy="-20" r="20"/>
+    <circle fill="#3b1a0e" cx="-7" cy="-22" r="3"/>
+    <circle fill="#3b1a0e" cx="7" cy="-22" r="3"/>
+    <rect fill="#864023" x="-20" y="5" width="40" height="50" rx="6"/>
+    <rect fill="#6d361f" x="-15" y="55" width="12" height="25" rx="4"/>
+    <rect fill="#6d361f" x="3" y="55" width="12" height="25" rx="4"/>
+  </g>
+  <g transform="translate(600,310) scale(0.6)">
+    <circle fill="#c96828" cx="0" cy="-30" r="35"/>
+    <polygon fill="#a74f23" points="-35,-30 0,-90 35,-30"/>
+    <circle fill="#f9edda" cx="0" cy="-20" r="20"/>
+    <circle fill="#3b1a0e" cx="-7" cy="-22" r="3"/>
+    <circle fill="#3b1a0e" cx="7" cy="-22" r="3"/>
+    <rect fill="#df9952" x="-20" y="5" width="40" height="50" rx="6"/>
+    <rect fill="#c96828" x="-15" y="55" width="12" height="25" rx="4"/>
+    <rect fill="#c96828" x="3" y="55" width="12" height="25" rx="4"/>
+  </g>
+  <text x="400" y="460" text-anchor="middle" fill="#3b1a0e" font-family="Inter,sans-serif" font-size="24" font-weight="600">Krasnale Wrocławskie</text>
+</svg>

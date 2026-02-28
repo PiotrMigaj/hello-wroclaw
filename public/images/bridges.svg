@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect fill="#4a90a4" width="800" height="500"/>
+  <rect fill="#357a8c" y="300" width="800" height="200"/>
+  <path d="M0,280 Q200,220 400,280 Q600,220 800,280" fill="none" stroke="#f9edda" stroke-width="8"/>
+  <rect fill="#f9edda" x="95" y="250" width="10" height="50" rx="2"/>
+  <rect fill="#f9edda" x="295" y="250" width="10" height="50" rx="2"/>
+  <rect fill="#f9edda" x="495" y="250" width="10" height="50" rx="2"/>
+  <rect fill="#f9edda" x="695" y="250" width="10" height="50" rx="2"/>
+  <ellipse fill="#2d6a7a" cx="200" cy="350" rx="100" ry="20" opacity="0.5"/>
+  <ellipse fill="#2d6a7a" cx="600" cy="350" rx="100" ry="20" opacity="0.5"/>
+  <path d="M0,320 Q100,310 200,320 Q300,330 400,320 Q500,310 600,320 Q700,330 800,320" fill="none" stroke="#2d6a7a" stroke-width="3" opacity="0.6"/>
+  <text x="400" y="440" text-anchor="middle" fill="#f9edda" font-family="Inter,sans-serif" font-size="24" font-weight="600">Mosty Wrocławia</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect fill="#f9edda" width="800" height="500"/>
+  <rect fill="#6d361f" y="400" width="800" height="100"/>
+  <!-- Table surface -->
+  <ellipse fill="#e9bb84" cx="400" cy="360" rx="320" ry="60"/>
+  <rect fill="#d78033" x="80" y="360" width="640" height="20"/>
+  <!-- Bowl of żurek (bread bowl) center -->
+  <ellipse fill="#c96828" cx="400" cy="300" rx="90" ry="35"/>
+  <ellipse fill="#df9952" cx="400" cy="295" rx="80" ry="28"/>
+  <ellipse fill="#a74f23" cx="400" cy="290" rx="65" ry="22"/>
+  <!-- Egg in soup -->
+  <ellipse fill="#f9edda" cx="400" cy="288" rx="18" ry="14"/>
+  <circle fill="#d78033" cx="400" cy="287" r="7"/>
+  <!-- Bread bowl rim -->
+  <ellipse fill="#864023" cx="400" cy="300" rx="92" ry="15" fill-opacity="0.4"/>
+  <!-- Pierogi plate left -->
+  <ellipse fill="#e9bb84" cx="170" cy="330" rx="80" ry="25"/>
+  <ellipse fill="#f2d7b4" cx="170" cy="325" rx="68" ry="20"/>
+  <ellipse fill="#df9952" cx="145" cy="322" rx="28" ry="12" transform="rotate(-15,145,322)"/>
+  <ellipse fill="#df9952" cx="180" cy="320" rx="28" ry="12" transform="rotate(5,180,320)"/>
+  <ellipse fill="#df9952" cx="210" cy="325" rx="28" ry="12" transform="rotate(20,210,325)"/>
+  <!-- Mug of beer right -->
+  <rect fill="#d78033" x="590" y="260" width="70" height="85" rx="6"/>
+  <rect fill="#df9952" x="596" y="266" width="58" height="73" rx="4"/>
+  <!-- Beer foam -->
+  <ellipse fill="#f9edda" cx="625" cy="264" rx="33" ry="12"/>
+  <ellipse fill="#f9edda" cx="610" cy="261" rx="14" ry="8"/>
+  <ellipse fill="#f9edda" cx="640" cy="260" rx="12" ry="7"/>
+  <!-- Mug handle -->
+  <path d="M660,280 Q690,280 690,310 Q690,340 660,340" fill="none" stroke="#c96828" stroke-width="8" stroke-linecap="round"/>
+  <!-- Fork and knife -->
+  <rect fill="#a74f23" x="530" y="270" width="6" height="80" rx="3"/>
+  <rect fill="#a74f23" x="522" y="270" width="4" height="40" rx="2"/>
+  <rect fill="#a74f23" x="538" y="270" width="4" height="40" rx="2"/>
+  <rect fill="#864023" x="275" y="275" width="5" height="90" rx="3"/>
+  <path d="M270,275 Q265,260 270,250 Q275,260 280,250 Q285,260 280,275" fill="#864023"/>
+  <text x="400" y="460" text-anchor="middle" fill="#f9edda" font-family="Inter,sans-serif" font-size="24" font-weight="600">Kuchnia Wrocławska</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect fill="#e9bb84" width="800" height="500"/>
+  <!-- Sky -->
+  <rect fill="#f2d7b4" width="800" height="280"/>
+  <!-- Ground -->
+  <rect fill="#c96828" y="280" width="800" height="120"/>
+  <rect fill="#6d361f" y="400" width="800" height="100"/>
+  <!-- Rolling canvas / panorama frame cylinder -->
+  <ellipse fill="#d78033" cx="400" cy="260" rx="340" ry="60"/>
+  <rect fill="#a74f23" x="60" y="260" width="680" height="120"/>
+  <ellipse fill="#864023" cx="400" cy="380" rx="340" ry="60"/>
+  <!-- Painting scene on canvas (tiny figures) -->
+  <rect fill="#df9952" x="120" y="275" width="560" height="90" rx="2"/>
+  <!-- Battle silhouettes -->
+  <polygon fill="#6d361f" points="180,360 190,320 200,360"/>
+  <polygon fill="#6d361f" points="220,360 230,315 240,360"/>
+  <polygon fill="#6d361f" points="260,360 270,325 280,360"/>
+  <circle fill="#3b1a0e" cx="185" cy="318" r="5"/>
+  <circle fill="#3b1a0e" cx="225" cy="313" r="5"/>
+  <circle fill="#3b1a0e" cx="265" cy="323" r="5"/>
+  <!-- Flag -->
+  <rect fill="#864023" x="350" y="295" width="3" height="50"/>
+  <rect fill="#c96828" x="353" y="298" width="25" height="15"/>
+  <!-- More figures -->
+  <polygon fill="#6d361f" points="490,360 500,325 510,360"/>
+  <polygon fill="#6d361f" points="530,360 540,320 550,360"/>
+  <circle fill="#3b1a0e" cx="495" cy="323" r="5"/>
+  <circle fill="#3b1a0e" cx="535" cy="318" r="5"/>
+  <!-- Frame pillars -->
+  <rect fill="#864023" x="50" y="220" width="20" height="200" rx="4"/>
+  <rect fill="#864023" x="730" y="220" width="20" height="200" rx="4"/>
+  <text x="400" y="460" text-anchor="middle" fill="#f9edda" font-family="Inter,sans-serif" font-size="24" font-weight="600">Panorama Racławicka</text>
+</svg>
