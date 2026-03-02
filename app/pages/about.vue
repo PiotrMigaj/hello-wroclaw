@@ -1,9 +1,16 @@
 <script setup lang="ts">
+const siteUrl = 'https://hellowroclaw.pl'
+
 useSeoMeta({
   title: 'O blogu Hello Wrocław - Historie i ciekawostki Wrocławia',
   ogTitle: 'O blogu Hello Wrocław - Historie i ciekawostki Wrocławia',
   description: 'Hello Wrocław to blog prowadzony przez fotografa z Wrocławia. Dzielimy się fascynującą historią, zabytkami i ciekawostkami miasta nad Odrą.',
-  ogDescription: 'Hello Wrocław to blog prowadzony przez fotografa z Wrocławia. Dzielimy się fascynującą historią, zabytkami i ciekawostkami miasta nad Odrą.',
+  ogDescription: 'Hello Wrocław to blog prowadzony przez fotografa z Wrocławia. Dzielimy się fascynującą historię, zabytki i ciekawostki miasta nad Odrą.',
+  ogUrl: `${siteUrl}/about`,
+})
+
+useHead({
+  link: [{ rel: 'canonical', href: `${siteUrl}/about` }],
 })
 </script>
 

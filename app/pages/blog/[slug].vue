@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const route = useRoute()
-const siteUrl = 'https://hello-wroclaw.netlify.app'
+const siteUrl = 'https://hellowroclaw.pl'
 
 const { data: post } = await useAsyncData(route.path, () =>
   queryCollection('blog').path(route.path).first(),
@@ -73,7 +73,7 @@ function formatDate(dateStr: string) {
 </script>
 
 <template>
-  <article v-if="post" class="max-w-3xl mx-auto px-6 py-16">
+  <article v-if="post" class="max-w-3xl mx-auto px-6 py-10 md:py-16">
     <header class="mb-12">
       <NuxtLink to="/blog" class="text-sm text-warm-600 hover:text-warm-700 transition-colors mb-6 inline-flex items-center gap-1">
         &larr; Powrót do bloga

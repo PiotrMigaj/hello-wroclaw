@@ -1,9 +1,16 @@
 <script setup lang="ts">
+const siteUrl = 'https://hellowroclaw.pl'
+
 useSeoMeta({
   title: 'Hello Wrocław - Odkryj historię i tajemnice miasta',
   ogTitle: 'Hello Wrocław - Odkryj historię i tajemnice miasta',
   description: 'Blog o Wrocławiu - odkryj fascynującą historię, zabytki, krasnale i tajemnice jednego z najpiękniejszych miast w Polsce.',
   ogDescription: 'Blog o Wrocławiu - odkryj fascynującą historię, zabytki, krasnale i tajemnice jednego z najpiękniejszych miast w Polsce.',
+  ogUrl: siteUrl,
+})
+
+useHead({
+  link: [{ rel: 'canonical', href: siteUrl }],
 })
 
 const { data: posts } = await useAsyncData('recent-posts', () =>
@@ -17,7 +24,7 @@ const { data: posts } = await useAsyncData('recent-posts', () =>
 <template>
   <div>
     <!-- Hero -->
-    <section class="py-20 px-6 text-center bg-gradient-to-b from-warm-100 to-warm-50">
+    <section class="py-12 md:py-20 px-6 text-center bg-gradient-to-b from-warm-100 to-warm-50">
       <div class="max-w-3xl mx-auto">
         <h1 class="text-5xl md:text-6xl font-bold text-stone-800 mb-6">
           Hello <span class="text-warm-600">Wrocław</span>

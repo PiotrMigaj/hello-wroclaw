@@ -1,2 +1,4 @@
 User-Agent: *
 Disallow:
+
+Sitemap: https://hellowroclaw.pl/sitemap.xml
